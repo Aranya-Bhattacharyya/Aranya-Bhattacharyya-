@@ -22,7 +22,7 @@ MSc Data Science and Communication student building a portfolio of data analysis
 - Business intelligence tools
 
 ## Featured Projects
-[Retail Sentiment Analysis](https://github.com/Aranya-Bhattacharyya/retail-sentiment-analysis)**: NLP pipeline for analyzing customer reviews and extracting business insights
+[Retail Sentiment Analysis](https://github.com/Aranya-Bhattacharyya/retail-sentiment-analysis): NLP pipeline for analyzing customer reviews and extracting business insights
 ## Education
 
 **MSc Data Science and Communication**  
