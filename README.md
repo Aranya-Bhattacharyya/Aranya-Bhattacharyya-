@@ -22,12 +22,7 @@ MSc Data Science and Communication student building a portfolio of data analysis
 - Business intelligence tools
 
 ## Featured Projects
-
-*Projects coming soon - currently in development:*
-
-- **Retail Sentiment Analysis**: NLP pipeline for analyzing customer reviews and extracting business insights
-- **Agentic Data Assistant**: AI-powered tool for automated data analysis and visualization
-
+[Retail Sentiment Analysis](https://github.com/Aranya-Bhattacharyya/retail-sentiment-analysis)**: NLP pipeline for analyzing customer reviews and extracting business insights
 ## Education
 
 **MSc Data Science and Communication**  
